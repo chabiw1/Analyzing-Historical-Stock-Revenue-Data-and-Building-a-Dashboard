@@ -1,2 +1,1 @@
-# Plot-Revenue-and-Share-Price
-Plot Revenue and Share Price
+Analyzing Historical Stock/Revenue Data and Building a Dashboard
